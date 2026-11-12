@@ -1,5 +1,5 @@
 # autoexec
-LAN Setup
+LAN Setup 
 
 //Movement Keys
 bind "a" "+left"
